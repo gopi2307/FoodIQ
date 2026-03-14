@@ -1,0 +1,2822 @@
+{
+  "gopi.2307": {
+    "password": "fb28973dfc380e2ae546b61ef48b347368c77bd33984e74b4b5db06c708ce8f7",
+    "email": "",
+    "created_at": "2026-03-13 15:24:24",
+    "profile": {
+      "name": "Gopi",
+      "age": 20,
+      "gender": "M",
+      "weight": 50.0,
+      "height": 175.0,
+      "activity_level": "4",
+      "goal": "2",
+      "diet_preference": "1",
+      "health_condition": ""
+    },
+    "meal_plan": {
+      "Monday": {
+        "breakfast": {
+          "name": "Paratha with Paneer",
+          "foods": [
+            "paratha",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "paratha",
+              "quantity": 1,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 67,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 181.4,
+            "protein": 12.1,
+            "carbs": 1.3,
+            "fats": 13.5,
+            "fiber": 0.4,
+            "iron": 1.0,
+            "calcium": 335.3,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 14.0,
+            "potassium": 55.1,
+            "zinc": 1.4
+          },
+          "target_calories": 517.2,
+          "target_protein": 25.8,
+          "target_carbs": 64.6,
+          "target_fats": 17.2,
+          "scale": 0.9
+        },
+        "brunch": {
+          "name": "Roasted Chana",
+          "foods": [
+            "roasted chana"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 48,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 77.8,
+            "protein": 3.4,
+            "carbs": 6.7,
+            "fats": 2.4,
+            "fiber": 2.4,
+            "iron": 1.2,
+            "calcium": 21.6,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 9.6,
+            "potassium": 84.0,
+            "zinc": 0.7
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.6
+        },
+        "lunch": {
+          "name": "Chapati with Chana Dal",
+          "foods": [
+            "chapati",
+            "chana dal"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "chana dal",
+              "quantity": 180,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 305.8,
+            "protein": 16.6,
+            "carbs": 50.7,
+            "fats": 5.5,
+            "fiber": 16.3,
+            "iron": 4.9,
+            "calcium": 54.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 6.9,
+            "potassium": 420.0,
+            "zinc": 2.8
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 1.8
+        },
+        "snacks": {
+          "name": "Roasted Chana",
+          "foods": [
+            "roasted chana"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 48,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 77.8,
+            "protein": 3.4,
+            "carbs": 6.7,
+            "fats": 2.4,
+            "fiber": 2.4,
+            "iron": 1.2,
+            "calcium": 21.6,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 9.6,
+            "potassium": 84.0,
+            "zinc": 0.7
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.6
+        },
+        "dinner": {
+          "name": "Chapati with Palak Paneer",
+          "foods": [
+            "chapati",
+            "spinach",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "spinach",
+              "quantity": 70,
+              "unit": "g"
+            },
+            {
+              "food": "paneer",
+              "quantity": 105,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 304.9,
+            "protein": 21.3,
+            "carbs": 5.9,
+            "fats": 21.4,
+            "fiber": 2.2,
+            "iron": 3.5,
+            "calcium": 595.1,
+            "vitamin_a": 328.3,
+            "vitamin_c": 19.6,
+            "vitamin_d": 0.0,
+            "sodium": 77.8,
+            "potassium": 480.6,
+            "zinc": 2.5
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 1.4
+        }
+      },
+      "Tuesday": {
+        "breakfast": {
+          "name": "Paratha with Paneer",
+          "foods": [
+            "paratha",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "paratha",
+              "quantity": 1,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 67,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 181.4,
+            "protein": 12.1,
+            "carbs": 1.3,
+            "fats": 13.5,
+            "fiber": 0.4,
+            "iron": 1.0,
+            "calcium": 335.3,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 14.0,
+            "potassium": 55.1,
+            "zinc": 1.4
+          },
+          "target_calories": 517.2,
+          "target_protein": 25.8,
+          "target_carbs": 64.6,
+          "target_fats": 17.2,
+          "scale": 0.9
+        },
+        "brunch": {
+          "name": "Roasted Chana",
+          "foods": [
+            "roasted chana"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 48,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 77.8,
+            "protein": 3.4,
+            "carbs": 6.7,
+            "fats": 2.4,
+            "fiber": 2.4,
+            "iron": 1.2,
+            "calcium": 21.6,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 9.6,
+            "potassium": 84.0,
+            "zinc": 0.7
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.6
+        },
+        "lunch": {
+          "name": "Chapati with Chana Dal",
+          "foods": [
+            "chapati",
+            "chana dal"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "chana dal",
+              "quantity": 180,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 305.8,
+            "protein": 16.6,
+            "carbs": 50.7,
+            "fats": 5.5,
+            "fiber": 16.3,
+            "iron": 4.9,
+            "calcium": 54.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 6.9,
+            "potassium": 420.0,
+            "zinc": 2.8
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 1.8
+        },
+        "snacks": {
+          "name": "Roasted Chana",
+          "foods": [
+            "roasted chana"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 48,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 77.8,
+            "protein": 3.4,
+            "carbs": 6.7,
+            "fats": 2.4,
+            "fiber": 2.4,
+            "iron": 1.2,
+            "calcium": 21.6,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 9.6,
+            "potassium": 84.0,
+            "zinc": 0.7
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.6
+        },
+        "dinner": {
+          "name": "Chapati with Palak Paneer",
+          "foods": [
+            "chapati",
+            "spinach",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "spinach",
+              "quantity": 70,
+              "unit": "g"
+            },
+            {
+              "food": "paneer",
+              "quantity": 105,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 304.9,
+            "protein": 21.3,
+            "carbs": 5.9,
+            "fats": 21.4,
+            "fiber": 2.2,
+            "iron": 3.5,
+            "calcium": 595.1,
+            "vitamin_a": 328.3,
+            "vitamin_c": 19.6,
+            "vitamin_d": 0.0,
+            "sodium": 77.8,
+            "potassium": 480.6,
+            "zinc": 2.5
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 1.4
+        }
+      },
+      "Wednesday": {
+        "breakfast": {
+          "name": "Paratha with Mix Veg",
+          "foods": [
+            "paratha",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "paratha",
+              "quantity": 1,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 150,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 56.3,
+            "protein": 3.1,
+            "carbs": 11.0,
+            "fats": 0.6,
+            "fiber": 3.8,
+            "iron": 0.9,
+            "calcium": 37.8,
+            "vitamin_a": 150.0,
+            "vitamin_c": 22.5,
+            "vitamin_d": 0.0,
+            "sodium": 60.6,
+            "potassium": 226.5,
+            "zinc": 0.6
+          },
+          "target_calories": 517.2,
+          "target_protein": 25.8,
+          "target_carbs": 64.6,
+          "target_fats": 17.2,
+          "scale": 1.5
+        },
+        "brunch": {
+          "name": "Moong Dal Snacks",
+          "foods": [
+            "moong dal namkeen"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal namkeen",
+              "quantity": 42,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 62.2,
+            "protein": 2.1,
+            "carbs": 8.4,
+            "fats": 2.1,
+            "fiber": 1.7,
+            "iron": 0.6,
+            "calcium": 8.4,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 63.0,
+            "potassium": 42.0,
+            "zinc": 0.3
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.7
+        },
+        "lunch": {
+          "name": "Chapati with Paneer",
+          "foods": [
+            "chapati",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 112,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 307.4,
+            "protein": 20.5,
+            "carbs": 3.4,
+            "fats": 22.5,
+            "fiber": 0.7,
+            "iron": 1.8,
+            "calcium": 560.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 23.9,
+            "potassium": 95.6,
+            "zinc": 2.3
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 1.5
+        },
+        "snacks": {
+          "name": "Curd with Fruits",
+          "foods": [
+            "curd",
+            "banana"
+          ],
+          "quantities": [
+            {
+              "food": "curd",
+              "quantity": 140,
+              "unit": "g"
+            },
+            {
+              "food": "banana",
+              "quantity": 1,
+              "unit": "pcs"
+            }
+          ],
+          "nutrition": {
+            "calories": 138.1,
+            "protein": 7.0,
+            "carbs": 5.8,
+            "fats": 9.8,
+            "fiber": 0.0,
+            "iron": 0.1,
+            "calcium": 154.1,
+            "vitamin_a": 35.0,
+            "vitamin_c": 0.1,
+            "vitamin_d": 7.0,
+            "sodium": 50.4,
+            "potassium": 149.2,
+            "zinc": 0.8
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.4
+        },
+        "dinner": {
+          "name": "Chapati with Paneer",
+          "foods": [
+            "chapati",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 112,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 307.4,
+            "protein": 20.5,
+            "carbs": 3.4,
+            "fats": 22.5,
+            "fiber": 0.7,
+            "iron": 1.8,
+            "calcium": 560.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 23.9,
+            "potassium": 95.6,
+            "zinc": 2.3
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 1.5
+        }
+      },
+      "Thursday": {
+        "breakfast": {
+          "name": "Paratha with Mix Veg",
+          "foods": [
+            "paratha",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "paratha",
+              "quantity": 1,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 150,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 56.3,
+            "protein": 3.1,
+            "carbs": 11.0,
+            "fats": 0.6,
+            "fiber": 3.8,
+            "iron": 0.9,
+            "calcium": 37.8,
+            "vitamin_a": 150.0,
+            "vitamin_c": 22.5,
+            "vitamin_d": 0.0,
+            "sodium": 60.6,
+            "potassium": 226.5,
+            "zinc": 0.6
+          },
+          "target_calories": 517.2,
+          "target_protein": 25.8,
+          "target_carbs": 64.6,
+          "target_fats": 17.2,
+          "scale": 1.5
+        },
+        "brunch": {
+          "name": "Moong Dal Snacks",
+          "foods": [
+            "moong dal namkeen"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal namkeen",
+              "quantity": 42,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 62.2,
+            "protein": 2.1,
+            "carbs": 8.4,
+            "fats": 2.1,
+            "fiber": 1.7,
+            "iron": 0.6,
+            "calcium": 8.4,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 63.0,
+            "potassium": 42.0,
+            "zinc": 0.3
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.7
+        },
+        "lunch": {
+          "name": "Chapati with Paneer",
+          "foods": [
+            "chapati",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 112,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 307.4,
+            "protein": 20.5,
+            "carbs": 3.4,
+            "fats": 22.5,
+            "fiber": 0.7,
+            "iron": 1.8,
+            "calcium": 560.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 23.9,
+            "potassium": 95.6,
+            "zinc": 2.3
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 1.5
+        },
+        "snacks": {
+          "name": "Curd with Fruits",
+          "foods": [
+            "curd",
+            "banana"
+          ],
+          "quantities": [
+            {
+              "food": "curd",
+              "quantity": 140,
+              "unit": "g"
+            },
+            {
+              "food": "banana",
+              "quantity": 1,
+              "unit": "pcs"
+            }
+          ],
+          "nutrition": {
+            "calories": 138.1,
+            "protein": 7.0,
+            "carbs": 5.8,
+            "fats": 9.8,
+            "fiber": 0.0,
+            "iron": 0.1,
+            "calcium": 154.1,
+            "vitamin_a": 35.0,
+            "vitamin_c": 0.1,
+            "vitamin_d": 7.0,
+            "sodium": 50.4,
+            "potassium": 149.2,
+            "zinc": 0.8
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.4
+        },
+        "dinner": {
+          "name": "Chapati with Paneer",
+          "foods": [
+            "chapati",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 112,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 307.4,
+            "protein": 20.5,
+            "carbs": 3.4,
+            "fats": 22.5,
+            "fiber": 0.7,
+            "iron": 1.8,
+            "calcium": 560.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 23.9,
+            "potassium": 95.6,
+            "zinc": 2.3
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 1.5
+        }
+      },
+      "Friday": {
+        "breakfast": {
+          "name": "Chapati with Chana Dal",
+          "foods": [
+            "chapati",
+            "chana dal"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "chana dal",
+              "quantity": 120,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 207.4,
+            "protein": 11.2,
+            "carbs": 34.5,
+            "fats": 3.7,
+            "fiber": 10.9,
+            "iron": 3.3,
+            "calcium": 36.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 5.1,
+            "potassium": 282.0,
+            "zinc": 1.9
+          },
+          "target_calories": 517.2,
+          "target_protein": 25.8,
+          "target_carbs": 64.6,
+          "target_fats": 17.2,
+          "scale": 1.2
+        },
+        "brunch": {
+          "name": "Sprouts Salad",
+          "foods": [
+            "moong dal",
+            "onion",
+            "tomato"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal",
+              "quantity": 160,
+              "unit": "g"
+            },
+            {
+              "food": "onion",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "tomato",
+              "quantity": 80,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 198.4,
+            "protein": 12.4,
+            "carbs": 37.1,
+            "fats": 0.8,
+            "fiber": 12.7,
+            "iron": 2.6,
+            "calcium": 43.2,
+            "vitamin_a": 33.6,
+            "vitamin_c": 12.2,
+            "vitamin_d": 0.0,
+            "sodium": 4.4,
+            "potassium": 480.0,
+            "zinc": 1.5
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.6
+        },
+        "lunch": {
+          "name": "Chapati with Dal",
+          "foods": [
+            "chapati",
+            "dal (lentils)"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "dal (lentils)",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 242.6,
+            "protein": 18.4,
+            "carbs": 42.1,
+            "fats": 0.9,
+            "fiber": 16.1,
+            "iron": 3.9,
+            "calcium": 38.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 5.5,
+            "potassium": 386.0,
+            "zinc": 2.1
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 2.0
+        },
+        "snacks": {
+          "name": "Moong Dal Snacks",
+          "foods": [
+            "moong dal namkeen"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal namkeen",
+              "quantity": 42,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 62.2,
+            "protein": 2.1,
+            "carbs": 8.4,
+            "fats": 2.1,
+            "fiber": 1.7,
+            "iron": 0.6,
+            "calcium": 8.4,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 63.0,
+            "potassium": 42.0,
+            "zinc": 0.3
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.7
+        },
+        "dinner": {
+          "name": "Chapati with Mix Veg",
+          "foods": [
+            "chapati",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 80.6,
+            "protein": 4.4,
+            "carbs": 16.1,
+            "fats": 0.7,
+            "fiber": 5.1,
+            "iron": 1.3,
+            "calcium": 50.8,
+            "vitamin_a": 200.0,
+            "vitamin_c": 30.0,
+            "vitamin_d": 0.0,
+            "sodium": 81.5,
+            "potassium": 306.0,
+            "zinc": 0.9
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 2.0
+        }
+      },
+      "Saturday": {
+        "breakfast": {
+          "name": "Chapati with Chana Dal",
+          "foods": [
+            "chapati",
+            "chana dal"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "chana dal",
+              "quantity": 120,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 207.4,
+            "protein": 11.2,
+            "carbs": 34.5,
+            "fats": 3.7,
+            "fiber": 10.9,
+            "iron": 3.3,
+            "calcium": 36.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 5.1,
+            "potassium": 282.0,
+            "zinc": 1.9
+          },
+          "target_calories": 517.2,
+          "target_protein": 25.8,
+          "target_carbs": 64.6,
+          "target_fats": 17.2,
+          "scale": 1.2
+        },
+        "brunch": {
+          "name": "Sprouts Salad",
+          "foods": [
+            "moong dal",
+            "onion",
+            "tomato"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal",
+              "quantity": 160,
+              "unit": "g"
+            },
+            {
+              "food": "onion",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "tomato",
+              "quantity": 80,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 198.4,
+            "protein": 12.4,
+            "carbs": 37.1,
+            "fats": 0.8,
+            "fiber": 12.7,
+            "iron": 2.6,
+            "calcium": 43.2,
+            "vitamin_a": 33.6,
+            "vitamin_c": 12.2,
+            "vitamin_d": 0.0,
+            "sodium": 4.4,
+            "potassium": 480.0,
+            "zinc": 1.5
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.6
+        },
+        "lunch": {
+          "name": "Chapati with Dal",
+          "foods": [
+            "chapati",
+            "dal (lentils)"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "dal (lentils)",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 242.6,
+            "protein": 18.4,
+            "carbs": 42.1,
+            "fats": 0.9,
+            "fiber": 16.1,
+            "iron": 3.9,
+            "calcium": 38.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 5.5,
+            "potassium": 386.0,
+            "zinc": 2.1
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 2.0
+        },
+        "snacks": {
+          "name": "Moong Dal Snacks",
+          "foods": [
+            "moong dal namkeen"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal namkeen",
+              "quantity": 42,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 62.2,
+            "protein": 2.1,
+            "carbs": 8.4,
+            "fats": 2.1,
+            "fiber": 1.7,
+            "iron": 0.6,
+            "calcium": 8.4,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 63.0,
+            "potassium": 42.0,
+            "zinc": 0.3
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.7
+        },
+        "dinner": {
+          "name": "Chapati with Mix Veg",
+          "foods": [
+            "chapati",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 80.6,
+            "protein": 4.4,
+            "carbs": 16.1,
+            "fats": 0.7,
+            "fiber": 5.1,
+            "iron": 1.3,
+            "calcium": 50.8,
+            "vitamin_a": 200.0,
+            "vitamin_c": 30.0,
+            "vitamin_d": 0.0,
+            "sodium": 81.5,
+            "potassium": 306.0,
+            "zinc": 0.9
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 2.0
+        }
+      },
+      "Sunday": {
+        "breakfast": {
+          "name": "Chapati with Paneer",
+          "foods": [
+            "chapati",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 75,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 209.3,
+            "protein": 13.9,
+            "carbs": 3.0,
+            "fats": 15.1,
+            "fiber": 0.5,
+            "iron": 1.2,
+            "calcium": 375.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 16.5,
+            "potassium": 66.0,
+            "zinc": 1.6
+          },
+          "target_calories": 517.2,
+          "target_protein": 25.8,
+          "target_carbs": 64.6,
+          "target_fats": 17.2,
+          "scale": 1.0
+        },
+        "brunch": {
+          "name": "Oats with Milk",
+          "foods": [
+            "rolled oats",
+            "milk"
+          ],
+          "quantities": [
+            {
+              "food": "rolled oats",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "milk",
+              "quantity": 120,
+              "unit": "ml"
+            }
+          ],
+          "nutrition": {
+            "calories": 224.8,
+            "protein": 9.0,
+            "carbs": 33.0,
+            "fats": 6.8,
+            "fiber": 4.0,
+            "iron": 1.8,
+            "calcium": 170.8,
+            "vitamin_a": 55.2,
+            "vitamin_c": 0.0,
+            "vitamin_d": 48.0,
+            "sodium": 55.2,
+            "potassium": 324.8,
+            "zinc": 1.9
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 0.6
+        },
+        "lunch": {
+          "name": "Rice with Soya Chunks",
+          "foods": [
+            "white rice (cooked)",
+            "soya chunks"
+          ],
+          "quantities": [
+            {
+              "food": "white rice (cooked)",
+              "quantity": 150,
+              "unit": "g"
+            },
+            {
+              "food": "soya chunks",
+              "quantity": 80,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 471.0,
+            "protein": 45.7,
+            "carbs": 69.2,
+            "fats": 1.2,
+            "fiber": 10.2,
+            "iron": 6.7,
+            "calcium": 287.5,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 13.5,
+            "potassium": 332.5,
+            "zinc": 4.0
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 1.6
+        },
+        "snacks": {
+          "name": "Sprouts Salad",
+          "foods": [
+            "moong dal",
+            "onion",
+            "tomato"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal",
+              "quantity": 160,
+              "unit": "g"
+            },
+            {
+              "food": "onion",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "tomato",
+              "quantity": 80,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 198.4,
+            "protein": 12.4,
+            "carbs": 37.1,
+            "fats": 0.8,
+            "fiber": 12.7,
+            "iron": 2.6,
+            "calcium": 43.2,
+            "vitamin_a": 33.6,
+            "vitamin_c": 12.2,
+            "vitamin_d": 0.0,
+            "sodium": 4.4,
+            "potassium": 480.0,
+            "zinc": 1.5
+          },
+          "target_calories": 258.6,
+          "target_protein": 12.9,
+          "target_carbs": 32.3,
+          "target_fats": 8.6,
+          "scale": 1.6
+        },
+        "dinner": {
+          "name": "Roti with Sabji",
+          "foods": [
+            "chapati",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 80.6,
+            "protein": 4.4,
+            "carbs": 16.1,
+            "fats": 0.7,
+            "fiber": 5.1,
+            "iron": 1.3,
+            "calcium": 50.8,
+            "vitamin_a": 200.0,
+            "vitamin_c": 30.0,
+            "vitamin_d": 0.0,
+            "sodium": 81.5,
+            "potassium": 306.0,
+            "zinc": 0.9
+          },
+          "target_calories": 775.8,
+          "target_protein": 38.7,
+          "target_carbs": 96.9,
+          "target_fats": 25.8,
+          "scale": 2.0
+        }
+      }
+    },
+    "calories": {
+      "bmr": 1499,
+      "tdee": 2586,
+      "daily_target": 2586,
+      "water_ml": 2435,
+      "water_glasses": 9
+    },
+    "macros": {
+      "protein": 129,
+      "carbs": 323,
+      "fats": 86
+    },
+    "disease": null
+  },
+  "solomon": {
+    "password": "fb28973dfc380e2ae546b61ef48b347368c77bd33984e74b4b5db06c708ce8f7",
+    "email": "",
+    "created_at": "2026-03-13 17:26:45",
+    "profile": {
+      "name": "Solomon",
+      "age": 20,
+      "gender": "M",
+      "weight": 100.0,
+      "height": 175.0,
+      "activity_level": "3",
+      "goal": "2",
+      "diet_preference": "1",
+      "health_condition": ""
+    },
+    "meal_plan": {
+      "Monday": {
+        "breakfast": {
+          "name": "Milk with Oats",
+          "foods": [
+            "rolled oats",
+            "milk"
+          ],
+          "quantities": [
+            {
+              "food": "rolled oats",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "milk",
+              "quantity": 280,
+              "unit": "ml"
+            }
+          ],
+          "nutrition": {
+            "calories": 322.4,
+            "protein": 14.2,
+            "carbs": 40.6,
+            "fats": 12.0,
+            "fiber": 4.0,
+            "iron": 1.9,
+            "calcium": 370.8,
+            "vitamin_a": 128.8,
+            "vitamin_c": 0.0,
+            "vitamin_d": 112.0,
+            "sodium": 125.6,
+            "potassium": 564.8,
+            "zinc": 2.6
+          },
+          "target_calories": 619.6,
+          "target_protein": 30.8,
+          "target_carbs": 77.4,
+          "target_fats": 20.6,
+          "scale": 1.4
+        },
+        "brunch": {
+          "name": "Roasted Chana",
+          "foods": [
+            "roasted chana"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 57,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 92.3,
+            "protein": 4.0,
+            "carbs": 8.0,
+            "fats": 2.8,
+            "fiber": 2.8,
+            "iron": 1.4,
+            "calcium": 25.6,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 11.4,
+            "potassium": 99.7,
+            "zinc": 0.9
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.9
+        },
+        "lunch": {
+          "name": "Chapati with Paneer",
+          "foods": [
+            "chapati",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 135,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 368.3,
+            "protein": 24.7,
+            "carbs": 3.7,
+            "fats": 27.1,
+            "fiber": 0.8,
+            "iron": 2.1,
+            "calcium": 675.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 28.5,
+            "potassium": 114.0,
+            "zinc": 2.8
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 1.8
+        },
+        "snacks": {
+          "name": "Roasted Chana",
+          "foods": [
+            "roasted chana"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 57,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 92.3,
+            "protein": 4.0,
+            "carbs": 8.0,
+            "fats": 2.8,
+            "fiber": 2.8,
+            "iron": 1.4,
+            "calcium": 25.6,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 11.4,
+            "potassium": 99.7,
+            "zinc": 0.9
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.9
+        },
+        "dinner": {
+          "name": "Chapati with Palak Paneer",
+          "foods": [
+            "chapati",
+            "spinach",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "spinach",
+              "quantity": 85,
+              "unit": "g"
+            },
+            {
+              "food": "paneer",
+              "quantity": 127,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 366.7,
+            "protein": 25.7,
+            "carbs": 6.7,
+            "fats": 25.9,
+            "fiber": 2.6,
+            "iron": 4.3,
+            "calcium": 720.0,
+            "vitamin_a": 398.6,
+            "vitamin_c": 23.8,
+            "vitamin_d": 0.0,
+            "sodium": 94.1,
+            "potassium": 581.9,
+            "zinc": 3.0
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 1.7
+        }
+      },
+      "Tuesday": {
+        "breakfast": {
+          "name": "Milk with Oats",
+          "foods": [
+            "rolled oats",
+            "milk"
+          ],
+          "quantities": [
+            {
+              "food": "rolled oats",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "milk",
+              "quantity": 280,
+              "unit": "ml"
+            }
+          ],
+          "nutrition": {
+            "calories": 322.4,
+            "protein": 14.2,
+            "carbs": 40.6,
+            "fats": 12.0,
+            "fiber": 4.0,
+            "iron": 1.9,
+            "calcium": 370.8,
+            "vitamin_a": 128.8,
+            "vitamin_c": 0.0,
+            "vitamin_d": 112.0,
+            "sodium": 125.6,
+            "potassium": 564.8,
+            "zinc": 2.6
+          },
+          "target_calories": 619.6,
+          "target_protein": 30.8,
+          "target_carbs": 77.4,
+          "target_fats": 20.6,
+          "scale": 1.4
+        },
+        "brunch": {
+          "name": "Roasted Chana",
+          "foods": [
+            "roasted chana"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 57,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 92.3,
+            "protein": 4.0,
+            "carbs": 8.0,
+            "fats": 2.8,
+            "fiber": 2.8,
+            "iron": 1.4,
+            "calcium": 25.6,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 11.4,
+            "potassium": 99.7,
+            "zinc": 0.9
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.9
+        },
+        "lunch": {
+          "name": "Chapati with Paneer",
+          "foods": [
+            "chapati",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 135,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 368.3,
+            "protein": 24.7,
+            "carbs": 3.7,
+            "fats": 27.1,
+            "fiber": 0.8,
+            "iron": 2.1,
+            "calcium": 675.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 28.5,
+            "potassium": 114.0,
+            "zinc": 2.8
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 1.8
+        },
+        "snacks": {
+          "name": "Roasted Chana",
+          "foods": [
+            "roasted chana"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 57,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 92.3,
+            "protein": 4.0,
+            "carbs": 8.0,
+            "fats": 2.8,
+            "fiber": 2.8,
+            "iron": 1.4,
+            "calcium": 25.6,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 11.4,
+            "potassium": 99.7,
+            "zinc": 0.9
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.9
+        },
+        "dinner": {
+          "name": "Chapati with Palak Paneer",
+          "foods": [
+            "chapati",
+            "spinach",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "spinach",
+              "quantity": 85,
+              "unit": "g"
+            },
+            {
+              "food": "paneer",
+              "quantity": 127,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 366.7,
+            "protein": 25.7,
+            "carbs": 6.7,
+            "fats": 25.9,
+            "fiber": 2.6,
+            "iron": 4.3,
+            "calcium": 720.0,
+            "vitamin_a": 398.6,
+            "vitamin_c": 23.8,
+            "vitamin_d": 0.0,
+            "sodium": 94.1,
+            "potassium": 581.9,
+            "zinc": 3.0
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 1.7
+        }
+      },
+      "Wednesday": {
+        "breakfast": {
+          "name": "Oats Porridge",
+          "foods": [
+            "rolled oats",
+            "milk"
+          ],
+          "quantities": [
+            {
+              "food": "rolled oats",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "milk",
+              "quantity": 280,
+              "unit": "ml"
+            }
+          ],
+          "nutrition": {
+            "calories": 322.4,
+            "protein": 14.2,
+            "carbs": 40.6,
+            "fats": 12.0,
+            "fiber": 4.0,
+            "iron": 1.9,
+            "calcium": 370.8,
+            "vitamin_a": 128.8,
+            "vitamin_c": 0.0,
+            "vitamin_d": 112.0,
+            "sodium": 125.6,
+            "potassium": 564.8,
+            "zinc": 2.6
+          },
+          "target_calories": 619.6,
+          "target_protein": 30.8,
+          "target_carbs": 77.4,
+          "target_fats": 20.6,
+          "scale": 1.4
+        },
+        "brunch": {
+          "name": "Oats with Milk",
+          "foods": [
+            "rolled oats",
+            "milk"
+          ],
+          "quantities": [
+            {
+              "food": "rolled oats",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "milk",
+              "quantity": 140,
+              "unit": "ml"
+            }
+          ],
+          "nutrition": {
+            "calories": 237.0,
+            "protein": 9.7,
+            "carbs": 33.9,
+            "fats": 7.4,
+            "fiber": 4.0,
+            "iron": 1.8,
+            "calcium": 195.8,
+            "vitamin_a": 64.4,
+            "vitamin_c": 0.0,
+            "vitamin_d": 56.0,
+            "sodium": 64.0,
+            "potassium": 354.8,
+            "zinc": 2.0
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 0.7
+        },
+        "lunch": {
+          "name": "Rice with Soya Chunks",
+          "foods": [
+            "white rice (cooked)",
+            "soya chunks"
+          ],
+          "quantities": [
+            {
+              "food": "white rice (cooked)",
+              "quantity": 150,
+              "unit": "g"
+            },
+            {
+              "food": "soya chunks",
+              "quantity": 100,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 540.0,
+            "protein": 56.0,
+            "carbs": 76.0,
+            "fats": 1.4,
+            "fiber": 12.6,
+            "iron": 8.3,
+            "calcium": 357.5,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 16.5,
+            "potassium": 402.5,
+            "zinc": 4.8
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 2.0
+        },
+        "snacks": {
+          "name": "Chana with Milk",
+          "foods": [
+            "roasted chana",
+            "milk"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 42,
+              "unit": "g"
+            },
+            {
+              "food": "milk",
+              "quantity": 280,
+              "unit": "ml"
+            }
+          ],
+          "nutrition": {
+            "calories": 238.8,
+            "protein": 11.9,
+            "carbs": 19.3,
+            "fats": 11.3,
+            "fiber": 2.1,
+            "iron": 1.2,
+            "calcium": 368.9,
+            "vitamin_a": 128.8,
+            "vitamin_c": 0.0,
+            "vitamin_d": 112.0,
+            "sodium": 131.6,
+            "potassium": 493.5,
+            "zinc": 1.8
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.4
+        },
+        "dinner": {
+          "name": "Chapati with Paneer",
+          "foods": [
+            "chapati",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 135,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 368.3,
+            "protein": 24.7,
+            "carbs": 3.7,
+            "fats": 27.1,
+            "fiber": 0.8,
+            "iron": 2.1,
+            "calcium": 675.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 28.5,
+            "potassium": 114.0,
+            "zinc": 2.8
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 1.8
+        }
+      },
+      "Thursday": {
+        "breakfast": {
+          "name": "Oats Porridge",
+          "foods": [
+            "rolled oats",
+            "milk"
+          ],
+          "quantities": [
+            {
+              "food": "rolled oats",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "milk",
+              "quantity": 280,
+              "unit": "ml"
+            }
+          ],
+          "nutrition": {
+            "calories": 322.4,
+            "protein": 14.2,
+            "carbs": 40.6,
+            "fats": 12.0,
+            "fiber": 4.0,
+            "iron": 1.9,
+            "calcium": 370.8,
+            "vitamin_a": 128.8,
+            "vitamin_c": 0.0,
+            "vitamin_d": 112.0,
+            "sodium": 125.6,
+            "potassium": 564.8,
+            "zinc": 2.6
+          },
+          "target_calories": 619.6,
+          "target_protein": 30.8,
+          "target_carbs": 77.4,
+          "target_fats": 20.6,
+          "scale": 1.4
+        },
+        "brunch": {
+          "name": "Oats with Milk",
+          "foods": [
+            "rolled oats",
+            "milk"
+          ],
+          "quantities": [
+            {
+              "food": "rolled oats",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "milk",
+              "quantity": 140,
+              "unit": "ml"
+            }
+          ],
+          "nutrition": {
+            "calories": 237.0,
+            "protein": 9.7,
+            "carbs": 33.9,
+            "fats": 7.4,
+            "fiber": 4.0,
+            "iron": 1.8,
+            "calcium": 195.8,
+            "vitamin_a": 64.4,
+            "vitamin_c": 0.0,
+            "vitamin_d": 56.0,
+            "sodium": 64.0,
+            "potassium": 354.8,
+            "zinc": 2.0
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 0.7
+        },
+        "lunch": {
+          "name": "Rice with Soya Chunks",
+          "foods": [
+            "white rice (cooked)",
+            "soya chunks"
+          ],
+          "quantities": [
+            {
+              "food": "white rice (cooked)",
+              "quantity": 150,
+              "unit": "g"
+            },
+            {
+              "food": "soya chunks",
+              "quantity": 100,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 540.0,
+            "protein": 56.0,
+            "carbs": 76.0,
+            "fats": 1.4,
+            "fiber": 12.6,
+            "iron": 8.3,
+            "calcium": 357.5,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 16.5,
+            "potassium": 402.5,
+            "zinc": 4.8
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 2.0
+        },
+        "snacks": {
+          "name": "Chana with Milk",
+          "foods": [
+            "roasted chana",
+            "milk"
+          ],
+          "quantities": [
+            {
+              "food": "roasted chana",
+              "quantity": 42,
+              "unit": "g"
+            },
+            {
+              "food": "milk",
+              "quantity": 280,
+              "unit": "ml"
+            }
+          ],
+          "nutrition": {
+            "calories": 238.8,
+            "protein": 11.9,
+            "carbs": 19.3,
+            "fats": 11.3,
+            "fiber": 2.1,
+            "iron": 1.2,
+            "calcium": 368.9,
+            "vitamin_a": 128.8,
+            "vitamin_c": 0.0,
+            "vitamin_d": 112.0,
+            "sodium": 131.6,
+            "potassium": 493.5,
+            "zinc": 1.8
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.4
+        },
+        "dinner": {
+          "name": "Chapati with Paneer",
+          "foods": [
+            "chapati",
+            "paneer"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "paneer",
+              "quantity": 135,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 368.3,
+            "protein": 24.7,
+            "carbs": 3.7,
+            "fats": 27.1,
+            "fiber": 0.8,
+            "iron": 2.1,
+            "calcium": 675.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 28.5,
+            "potassium": 114.0,
+            "zinc": 2.8
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 1.8
+        }
+      },
+      "Friday": {
+        "breakfast": {
+          "name": "Paratha with Mix Veg",
+          "foods": [
+            "paratha",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "paratha",
+              "quantity": 1,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 180,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 66.8,
+            "protein": 3.7,
+            "carbs": 13.1,
+            "fats": 0.7,
+            "fiber": 4.5,
+            "iron": 1.1,
+            "calcium": 45.3,
+            "vitamin_a": 180.0,
+            "vitamin_c": 27.0,
+            "vitamin_d": 0.0,
+            "sodium": 72.6,
+            "potassium": 271.5,
+            "zinc": 0.7
+          },
+          "target_calories": 619.6,
+          "target_protein": 30.8,
+          "target_carbs": 77.4,
+          "target_fats": 20.6,
+          "scale": 1.8
+        },
+        "brunch": {
+          "name": "Sprouts Salad",
+          "foods": [
+            "moong dal",
+            "onion",
+            "tomato"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal",
+              "quantity": 190,
+              "unit": "g"
+            },
+            {
+              "food": "onion",
+              "quantity": 47,
+              "unit": "g"
+            },
+            {
+              "food": "tomato",
+              "quantity": 95,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 235.4,
+            "protein": 14.7,
+            "carbs": 44.0,
+            "fats": 1.0,
+            "fiber": 15.1,
+            "iron": 3.0,
+            "calcium": 51.2,
+            "vitamin_a": 39.9,
+            "vitamin_c": 14.4,
+            "vitamin_d": 0.0,
+            "sodium": 5.2,
+            "potassium": 569.4,
+            "zinc": 1.8
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.9
+        },
+        "lunch": {
+          "name": "Chapati with Chana Dal",
+          "foods": [
+            "chapati",
+            "chana dal"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "chana dal",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 338.6,
+            "protein": 18.4,
+            "carbs": 56.1,
+            "fats": 6.1,
+            "fiber": 18.1,
+            "iron": 5.5,
+            "calcium": 60.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 7.5,
+            "potassium": 466.0,
+            "zinc": 3.1
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 2.0
+        },
+        "snacks": {
+          "name": "Sprouts Salad",
+          "foods": [
+            "moong dal",
+            "onion",
+            "tomato"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal",
+              "quantity": 190,
+              "unit": "g"
+            },
+            {
+              "food": "onion",
+              "quantity": 47,
+              "unit": "g"
+            },
+            {
+              "food": "tomato",
+              "quantity": 95,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 235.4,
+            "protein": 14.7,
+            "carbs": 44.0,
+            "fats": 1.0,
+            "fiber": 15.1,
+            "iron": 3.0,
+            "calcium": 51.2,
+            "vitamin_a": 39.9,
+            "vitamin_c": 14.4,
+            "vitamin_d": 0.0,
+            "sodium": 5.2,
+            "potassium": 569.4,
+            "zinc": 1.8
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.9
+        },
+        "dinner": {
+          "name": "Chapati with Mix Veg",
+          "foods": [
+            "chapati",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 80.6,
+            "protein": 4.4,
+            "carbs": 16.1,
+            "fats": 0.7,
+            "fiber": 5.1,
+            "iron": 1.3,
+            "calcium": 50.8,
+            "vitamin_a": 200.0,
+            "vitamin_c": 30.0,
+            "vitamin_d": 0.0,
+            "sodium": 81.5,
+            "potassium": 306.0,
+            "zinc": 0.9
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 2.0
+        }
+      },
+      "Saturday": {
+        "breakfast": {
+          "name": "Paratha with Mix Veg",
+          "foods": [
+            "paratha",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "paratha",
+              "quantity": 1,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 180,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 66.8,
+            "protein": 3.7,
+            "carbs": 13.1,
+            "fats": 0.7,
+            "fiber": 4.5,
+            "iron": 1.1,
+            "calcium": 45.3,
+            "vitamin_a": 180.0,
+            "vitamin_c": 27.0,
+            "vitamin_d": 0.0,
+            "sodium": 72.6,
+            "potassium": 271.5,
+            "zinc": 0.7
+          },
+          "target_calories": 619.6,
+          "target_protein": 30.8,
+          "target_carbs": 77.4,
+          "target_fats": 20.6,
+          "scale": 1.8
+        },
+        "brunch": {
+          "name": "Sprouts Salad",
+          "foods": [
+            "moong dal",
+            "onion",
+            "tomato"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal",
+              "quantity": 190,
+              "unit": "g"
+            },
+            {
+              "food": "onion",
+              "quantity": 47,
+              "unit": "g"
+            },
+            {
+              "food": "tomato",
+              "quantity": 95,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 235.4,
+            "protein": 14.7,
+            "carbs": 44.0,
+            "fats": 1.0,
+            "fiber": 15.1,
+            "iron": 3.0,
+            "calcium": 51.2,
+            "vitamin_a": 39.9,
+            "vitamin_c": 14.4,
+            "vitamin_d": 0.0,
+            "sodium": 5.2,
+            "potassium": 569.4,
+            "zinc": 1.8
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.9
+        },
+        "lunch": {
+          "name": "Chapati with Chana Dal",
+          "foods": [
+            "chapati",
+            "chana dal"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "chana dal",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 338.6,
+            "protein": 18.4,
+            "carbs": 56.1,
+            "fats": 6.1,
+            "fiber": 18.1,
+            "iron": 5.5,
+            "calcium": 60.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 7.5,
+            "potassium": 466.0,
+            "zinc": 3.1
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 2.0
+        },
+        "snacks": {
+          "name": "Sprouts Salad",
+          "foods": [
+            "moong dal",
+            "onion",
+            "tomato"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal",
+              "quantity": 190,
+              "unit": "g"
+            },
+            {
+              "food": "onion",
+              "quantity": 47,
+              "unit": "g"
+            },
+            {
+              "food": "tomato",
+              "quantity": 95,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 235.4,
+            "protein": 14.7,
+            "carbs": 44.0,
+            "fats": 1.0,
+            "fiber": 15.1,
+            "iron": 3.0,
+            "calcium": 51.2,
+            "vitamin_a": 39.9,
+            "vitamin_c": 14.4,
+            "vitamin_d": 0.0,
+            "sodium": 5.2,
+            "potassium": 569.4,
+            "zinc": 1.8
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 1.9
+        },
+        "dinner": {
+          "name": "Chapati with Mix Veg",
+          "foods": [
+            "chapati",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 80.6,
+            "protein": 4.4,
+            "carbs": 16.1,
+            "fats": 0.7,
+            "fiber": 5.1,
+            "iron": 1.3,
+            "calcium": 50.8,
+            "vitamin_a": 200.0,
+            "vitamin_c": 30.0,
+            "vitamin_d": 0.0,
+            "sodium": 81.5,
+            "potassium": 306.0,
+            "zinc": 0.9
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 2.0
+        }
+      },
+      "Sunday": {
+        "breakfast": {
+          "name": "Masala Oats with Vegetables",
+          "foods": [
+            "rolled oats",
+            "onion",
+            "tomato",
+            "carrot"
+          ],
+          "quantities": [
+            {
+              "food": "rolled oats",
+              "quantity": 40,
+              "unit": "g"
+            },
+            {
+              "food": "onion",
+              "quantity": 32,
+              "unit": "g"
+            },
+            {
+              "food": "tomato",
+              "quantity": 65,
+              "unit": "g"
+            },
+            {
+              "food": "carrot",
+              "quantity": 65,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 202.8,
+            "protein": 6.7,
+            "carbs": 39.1,
+            "fats": 3.1,
+            "fiber": 7.0,
+            "iron": 2.2,
+            "calcium": 48.7,
+            "vitamin_a": 570.0,
+            "vitamin_c": 13.8,
+            "vitamin_d": 0.0,
+            "sodium": 49.5,
+            "potassium": 508.2,
+            "zinc": 1.8
+          },
+          "target_calories": 619.6,
+          "target_protein": 30.8,
+          "target_carbs": 77.4,
+          "target_fats": 20.6,
+          "scale": 1.3
+        },
+        "brunch": {
+          "name": "Moong Dal Snacks",
+          "foods": [
+            "moong dal namkeen"
+          ],
+          "quantities": [
+            {
+              "food": "moong dal namkeen",
+              "quantity": 50,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 74.0,
+            "protein": 2.5,
+            "carbs": 10.0,
+            "fats": 2.5,
+            "fiber": 2.0,
+            "iron": 0.8,
+            "calcium": 10.0,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 75.0,
+            "potassium": 50.0,
+            "zinc": 0.4
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 2.0
+        },
+        "lunch": {
+          "name": "Chapati with Dal",
+          "foods": [
+            "chapati",
+            "dal (lentils)"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "dal (lentils)",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 242.6,
+            "protein": 18.4,
+            "carbs": 42.1,
+            "fats": 0.9,
+            "fiber": 16.1,
+            "iron": 3.9,
+            "calcium": 38.8,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 5.5,
+            "potassium": 386.0,
+            "zinc": 2.1
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 2.0
+        },
+        "snacks": {
+          "name": "Apple with Peanut Butter",
+          "foods": [
+            "apple",
+            "peanut"
+          ],
+          "quantities": [
+            {
+              "food": "apple",
+              "quantity": 1,
+              "unit": "pcs"
+            },
+            {
+              "food": "peanut",
+              "quantity": 30,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 170.4,
+            "protein": 7.8,
+            "carbs": 4.9,
+            "fats": 14.7,
+            "fiber": 2.7,
+            "iron": 1.4,
+            "calcium": 27.6,
+            "vitamin_a": 0.0,
+            "vitamin_c": 0.0,
+            "vitamin_d": 0.0,
+            "sodium": 5.4,
+            "potassium": 212.2,
+            "zinc": 1.0
+          },
+          "target_calories": 309.8,
+          "target_protein": 15.4,
+          "target_carbs": 38.7,
+          "target_fats": 10.3,
+          "scale": 0.5
+        },
+        "dinner": {
+          "name": "Roti with Sabji",
+          "foods": [
+            "chapati",
+            "mixed vegetables"
+          ],
+          "quantities": [
+            {
+              "food": "chapati",
+              "quantity": 2,
+              "unit": "pcs"
+            },
+            {
+              "food": "mixed vegetables",
+              "quantity": 200,
+              "unit": "g"
+            }
+          ],
+          "nutrition": {
+            "calories": 80.6,
+            "protein": 4.4,
+            "carbs": 16.1,
+            "fats": 0.7,
+            "fiber": 5.1,
+            "iron": 1.3,
+            "calcium": 50.8,
+            "vitamin_a": 200.0,
+            "vitamin_c": 30.0,
+            "vitamin_d": 0.0,
+            "sodium": 81.5,
+            "potassium": 306.0,
+            "zinc": 0.9
+          },
+          "target_calories": 929.4,
+          "target_protein": 46.2,
+          "target_carbs": 116.1,
+          "target_fats": 30.9,
+          "scale": 2.0
+        }
+      }
+    },
+    "calories": {
+      "bmr": 1999,
+      "tdee": 3098,
+      "daily_target": 3098,
+      "water_ml": 4810,
+      "water_glasses": 19
+    },
+    "macros": {
+      "protein": 154,
+      "carbs": 387,
+      "fats": 103
+    },
+    "disease": null
+  }
+}

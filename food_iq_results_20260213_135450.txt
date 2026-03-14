@@ -1,0 +1,47 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-02-13 13:54:50
+
+USER PROFILE
+----------------------------------------
+Name: TestUser
+Age: 30
+Gender: Male
+Weight: 75.0 kg
+Height: 175.0 cm
+Activity: Moderately Active
+Goal: Maintain Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 1699 calories/day
+TDEE: 2633 calories/day
+Daily Target: 2633 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 197g
+Carbs: 263g
+Fats: 88g
+
+MEAL PLAN
+----------------------------------------
+
+BREAKFAST: Smoothie Bowl
+   Foods: greek yogurt, banana, almonds
+   Calories: 654.3
+
+LUNCH: Beef Steak with Quinoa
+   Foods: beef steak, quinoa, green beans
+   Calories: 844.0
+
+DINNER: Cottage Cheese with Nuts
+   Foods: cottage cheese, walnuts, apple
+   Calories: 804.0
+
+SNACKS: Almonds
+   Foods: almonds
+   Calories: 289.5
+

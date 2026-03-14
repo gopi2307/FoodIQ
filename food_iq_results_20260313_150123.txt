@@ -1,0 +1,31 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-03-13 15:01:23
+
+USER PROFILE
+----------------------------------------
+Name: Solomon
+Age: 20
+Gender: Male
+Weight: 120.0 kg
+Height: 175.0 cm
+Activity: Very Active
+Goal: Maintain Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 2199 calories/day
+TDEE: 3793 calories/day
+Daily Target: 3793 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 189g
+Carbs: 474g
+Fats: 126g
+
+MEAL PLAN
+----------------------------------------
+

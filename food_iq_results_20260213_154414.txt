@@ -1,0 +1,47 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-02-13 15:44:14
+
+USER PROFILE
+----------------------------------------
+Name: Gopi
+Age: 20
+Gender: Male
+Weight: 50.0 kg
+Height: 178.0 cm
+Activity: Very Active
+Goal: Gain Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 1518 calories/day
+TDEE: 2619 calories/day
+Daily Target: 3119 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 234g
+Carbs: 312g
+Fats: 104g
+
+MEAL PLAN
+----------------------------------------
+
+BREAKFAST: Cheese Toast with Tomato
+   Foods: whole wheat bread, cheese (cheddar), tomatoes
+   Calories: 801.6
+
+LUNCH: Veggie Quesadilla
+   Foods: whole wheat bread, cheese (cheddar), bell pepper, carrots
+   Calories: 1083.0
+
+DINNER: Cheese and Veggie Bake
+   Foods: broccoli, cheese (cheddar), sweet potato
+   Calories: 941.4
+
+SNACKS: Yogurt with Nuts
+   Foods: greek yogurt, almonds
+   Calories: 319.0
+

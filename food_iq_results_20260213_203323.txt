@@ -1,0 +1,31 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-02-13 20:33:23
+
+USER PROFILE
+----------------------------------------
+Name: Varsha
+Age: 17
+Gender: Female
+Weight: 40.0 kg
+Height: 140.0 cm
+Activity: Moderately Active
+Goal: Gain Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 1029 calories/day
+TDEE: 1595 calories/day
+Daily Target: 1945 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 121g
+Carbs: 218g
+Fats: 64g
+
+MEAL PLAN
+----------------------------------------
+

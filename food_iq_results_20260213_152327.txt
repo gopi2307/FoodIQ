@@ -1,0 +1,47 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-02-13 15:23:27
+
+USER PROFILE
+----------------------------------------
+Name: Test
+Age: 25
+Gender: Male
+Weight: 70.0 kg
+Height: 170.0 cm
+Activity: Moderately Active
+Goal: Maintain Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 1642 calories/day
+TDEE: 2545 calories/day
+Daily Target: 2545 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 191g
+Carbs: 254g
+Fats: 85g
+
+MEAL PLAN
+----------------------------------------
+
+BREAKFAST: Hummus Toast
+   Foods: whole wheat bread, hummus, tomatoes
+   Calories: 646.5
+
+LUNCH: Veggie Wrap
+   Foods: whole wheat bread, hummus, lettuce, cucumber, tomatoes
+   Calories: 877.8
+
+DINNER: Vegan Buddha Bowl
+   Foods: quinoa, chickpeas, avocado, spinach
+   Calories: 747.2
+
+SNACKS: Chia Pudding
+   Foods: almond milk, chia seeds
+   Calories: 251.5
+

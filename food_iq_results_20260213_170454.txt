@@ -1,0 +1,31 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-02-13 17:04:54
+
+USER PROFILE
+----------------------------------------
+Name: Gopi
+Age: 20
+Gender: Male
+Weight: 55.0 kg
+Height: 178.0 cm
+Activity: Very Active
+Goal: Gain Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 1568 calories/day
+TDEE: 2705 calories/day
+Daily Target: 3205 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 240g
+Carbs: 320g
+Fats: 107g
+
+MEAL PLAN
+----------------------------------------
+

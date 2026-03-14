@@ -1,0 +1,47 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-02-13 14:03:59
+
+USER PROFILE
+----------------------------------------
+Name: Jaya Shankar
+Age: 20
+Gender: Male
+Weight: 85.0 kg
+Height: 183.0 cm
+Activity: Moderately Active
+Goal: Lose Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 1899 calories/day
+TDEE: 2943 calories/day
+Daily Target: 2443 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 183g
+Carbs: 244g
+Fats: 81g
+
+MEAL PLAN
+----------------------------------------
+
+BREAKFAST: Avocado Toast with Eggs
+   Foods: whole wheat bread, avocado, eggs
+   Calories: 618.2
+
+LUNCH: Beef Steak with Quinoa
+   Foods: beef steak, quinoa, green beans
+   Calories: 844.0
+
+DINNER: Cottage Cheese with Nuts
+   Foods: cottage cheese, walnuts, apple
+   Calories: 723.6
+
+SNACKS: Cottage Cheese
+   Foods: cottage cheese
+   Calories: 196.0
+

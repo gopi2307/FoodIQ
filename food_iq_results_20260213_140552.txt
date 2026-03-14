@@ -1,0 +1,47 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-02-13 14:05:52
+
+USER PROFILE
+----------------------------------------
+Name: falthu
+Age: 20
+Gender: Female
+Weight: 116.0 kg
+Height: 116.0 cm
+Activity: Sedentary
+Goal: Lose Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 1624 calories/day
+TDEE: 1949 calories/day
+Daily Target: 1449 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 109g
+Carbs: 145g
+Fats: 48g
+
+MEAL PLAN
+----------------------------------------
+
+BREAKFAST: Smoothie Bowl
+   Foods: greek yogurt, banana, almonds
+   Calories: 363.5
+
+LUNCH: Grilled Salmon with Sweet Potato
+   Foods: salmon, sweet potato, spinach
+   Calories: 507.2
+
+DINNER: Grilled Salmon with Vegetables
+   Foods: salmon, broccoli, sweet potato
+   Calories: 426.4
+
+SNACKS: Cottage Cheese
+   Foods: cottage cheese
+   Calories: 147.0
+

@@ -1,0 +1,47 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-02-13 15:56:34
+
+USER PROFILE
+----------------------------------------
+Name: Gopi
+Age: 20
+Gender: Male
+Weight: 50.0 kg
+Height: 178.0 cm
+Activity: Very Active
+Goal: Gain Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 1518 calories/day
+TDEE: 2619 calories/day
+Daily Target: 3119 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 234g
+Carbs: 312g
+Fats: 104g
+
+MEAL PLAN
+----------------------------------------
+
+BREAKFAST: Boiled Eggs with Chapati
+   Foods: boiled egg, chapati, onion
+   Calories: 780.3
+
+LUNCH: Rice with Soya Chunk Curry
+   Foods: white rice (cooked), soya chunks, onion, tomato
+   Calories: 1066.0
+
+DINNER: Chapati with Paneer Curry
+   Foods: chapati, paneer, onion, tomato
+   Calories: 939.2
+
+SNACKS: Roasted Chana with Milk
+   Foods: roasted chana, milk
+   Calories: 312.2
+

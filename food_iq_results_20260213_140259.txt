@@ -1,0 +1,47 @@
+============================================================
+FOOD IQ - PERSONALIZED DIET PLAN RESULTS
+============================================================
+
+Generated: 2026-02-13 14:02:59
+
+USER PROFILE
+----------------------------------------
+Name: Solomon
+Age: 20
+Gender: Male
+Weight: 150.0 kg
+Height: 178.0 cm
+Activity: Sedentary
+Goal: Lose Weight
+
+CALORIE REQUIREMENTS
+----------------------------------------
+BMR: 2518 calories/day
+TDEE: 3022 calories/day
+Daily Target: 2522 calories/day
+
+MACRO NUTRIENTS
+----------------------------------------
+Protein: 189g
+Carbs: 252g
+Fats: 84g
+
+MEAL PLAN
+----------------------------------------
+
+BREAKFAST: Avocado Toast with Eggs
+   Foods: whole wheat bread, avocado, eggs
+   Calories: 618.2
+
+LUNCH: Beef Steak with Quinoa
+   Foods: beef steak, quinoa, green beans
+   Calories: 844.0
+
+DINNER: Cottage Cheese with Nuts
+   Foods: cottage cheese, walnuts, apple
+   Calories: 723.6
+
+SNACKS: Almonds
+   Foods: almonds
+   Calories: 289.5
+
